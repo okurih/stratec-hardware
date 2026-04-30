@@ -1,7 +1,7 @@
 # STRATEC Biomedical hardware challenge
 
 ## Assignment
-As understood, lcd displays current position, desired number of turns ( with decimal accuracy ), angular velocity, and ON/OFF state for movement activated by a button press. The two potentiometers address the number of turns (displayed) and the step delay, therefore adjusting the velocity (not displayed, too cramped).
+As understood, lcd displays current position, desired number of turns ( with decimal accuracy ), angular velocity, and ON/OFF state for movement activated by a button press. The two potentiometers address the number of turns (displayed) and the step delay, therefore adjusting the velocity.
 
 
 | Component | Part |
